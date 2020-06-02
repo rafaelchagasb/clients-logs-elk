@@ -1,5 +1,4 @@
-# clients-logs-elk
-Project with integrations with stack ELK
+# Integrations with stack ELK - Centralized logging
 
 Spring boot
 
